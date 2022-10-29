@@ -1,0 +1,6 @@
+region          = "us-east-1"
+ami             = "ami-01b53c30605e19bda"
+instance_type   = "t2.micro"
+key             = "key1"
+Name            = "Sofiyah"
+Env             = "Env"
